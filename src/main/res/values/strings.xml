@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Match</string>
+    <string name="start">start</string>
+    <string name="setting">Setting</string>
+    <string name="set">Set</string>
+    <string name="settingTitle">Please select the size</string>
+</resources>
